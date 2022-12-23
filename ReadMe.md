@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-# 🔭 A 3rd Year Computer Science Engineering Student in SRMIST<br>🌱 I’m currently mastering C and C++ to the max<br>❓ Ask me about anything regarding C and C++ and recent Tech revolution in the field of AI<br> 🎸🎵 Fun Fact A passionate music follower and a guitar player who is a huge fan of Weeknd...!!
+### 🔭 A 3rd Year Computer Science Engineering Student in SRMIST<br>🌱 I’m currently mastering C and C++ to the max<br>❓ Ask me about anything regarding C and C++ and recent Tech revolution in the field of AI<br> 🎸🎵 Fun Fact A passionate music follower and a guitar player who is a huge fan of Weeknd...!!
 
 
 # 🌐 Socials:
