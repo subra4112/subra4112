@@ -29,8 +29,6 @@
 🔎 **[AskNeo](https://github.com/subra4112/graph-based-qa-lightRAG)**
 - GPT-4 + Neo4j hybrid RAG for semantic search over a knowledge graph (3K+ nodes)
 
-💼 **[Splitz App](https://github.com/subra4112/food-waste-analytics)**
-- Flutter app for AI-enhanced Walmart bill splitting using PaddleOCR + LayoutLMv3
 
 ---
 
